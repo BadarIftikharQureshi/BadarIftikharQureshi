@@ -1,5 +1,6 @@
 -    I am Software Engineer|Data Scienctist|Web Developer|.Net Developer|Microsoft .Net Developer|Machine Learner
--    I am currently working on Data Analysis & Web Development
+-    I am currently working in MCB Islamic Bank-Head Office Lahore
+-    I am previously working on Data Analysis & Web Development
 - 👋 Hi, I’m @BadarIftikharQureshi
 - 👀 I’m interested in WEB DEVELOPMENT|DATA SCIENCE|ASP.NET|MVC FRAMEWORK|PHP|C#|MACHINE LEARNING
 - 🌱 I’m currently learning and working on Data Science|Machine Learning
