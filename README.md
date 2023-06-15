@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @BadarIftikharQureshi
 - 👀 I’m interested in WEB DEVELOPMENT|DATA SCIENCE|ASP.NET|MVC FRAMEWORK|PHP|C#|MACHINE LEARNING
 - 🌱 I’m currently learning and working on Data Science|Machine Learning
-- 💞️ I’m looking to collaborate on and with the company and also working on the Data Science|Business Analytics
+- 💞️ I’m looking to collaborate on and with the company and also working on the Data Science|Business Analytics|Web Development
 - 📫 How to reach me (You can reach me thorough the social media & Electronic media)
 
 <!---
